@@ -26,13 +26,13 @@ About Stylus - https://learnboost.github.io/stylus/
 
 #### How to use
 
-* install
+**install**
 
     git clone git@github.com:johnantoni/meteor-boilerplate.git hackathon
     cd hackathon
     rm -rf .git
 
-* link to your repo
+**link to your repo**
 
     git init
     git aa
